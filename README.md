@@ -42,7 +42,7 @@ To get a local copy of this project up and running, follow these steps:
 
 2. **Install dependencies:**
 
-<&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>`cd chat-app-react` <br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`cd chat-app-react` <br/>
 <&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>`npm install`
 
 
