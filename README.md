@@ -42,8 +42,8 @@ To get a local copy of this project up and running, follow these steps:
 
 2. **Install dependencies:**
 
-`cd chat-app-react` <br/>
-`npm install`
+<&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>`cd chat-app-react` <br/>
+<&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>`npm install`
 
 
 3. **Set up Firebase:**
@@ -52,7 +52,7 @@ To get a local copy of this project up and running, follow these steps:
 
 4. **Run the application:**
 
-`npm start` <br/>
+<&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><&nbsp>`npm start` <br/>
 
 Open http://localhost:3000 to view it in the browser.
 
@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at your-email@example.com.
+For any questions or feedback, feel free to reach out at deepupradeep7554@gmail.com.
 
 ---
 
