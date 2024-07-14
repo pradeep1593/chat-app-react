@@ -42,8 +42,8 @@ To get a local copy of this project up and running, follow these steps:
 
 2. **Install dependencies:**
 
-cd chat-app-react
-npm install
+`cd chat-app-react` <br/>
+`npm install`
 
 
 3. **Set up Firebase:**
@@ -52,7 +52,7 @@ npm install
 
 4. **Run the application:**
 
-npm start
+`npm start` <br/>
 
 Open http://localhost:3000 to view it in the browser.
 
